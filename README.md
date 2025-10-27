@@ -82,7 +82,7 @@ Standard Class dominates with £592,522, while First Class generates £149,399 �
 
 🗓️ Revenue by Day Insight: Wednesdays yield the highest average revenue (£111,577), ideal for midweek promotions.
 
-📸 Dashboard Preview: 
+📸 Dashboard Preview: https://github.com/23Mahee/UK-TRAIN-RIDE-ANALYSIS/blob/main/Train.JPG
 
 
 A Power BI dashboard offering actionable insights into UK train sales, journey status, and route-based revenue distribution.
