@@ -27,11 +27,11 @@ Source: Maven Analytics
 The dataset includes detailed records of train ticket sales, journey performance, purchase type, ticket class, and route-based revenue between December 2023 and April 2024, simulating a real-world UK rail network dataset.
 
 ## 🌟 Features / Highlights
-Business Problem
+### Business Problem
 
 Rail operators often struggle to track punctuality trends, evaluate ticketing performance, and analyze revenue by route or ticket type. This dashboard addresses those challenges by providing a single, visual platform for operational and sales insights.
 
-Goal of the Dashboard
+### Goal of the Dashboard
 
 To develop an analytical tool that:
 
