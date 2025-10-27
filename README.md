@@ -1,4 +1,4 @@
-#🚆 UK TRAIN RIDE ANALYSIS DASHBOARD
+🚆 UK TRAIN RIDE ANALYSIS DASHBOARD
 
 A Power BI dashboard uncovering insights into ticket sales, punctuality, and revenue trends across the UK rail network.
 
