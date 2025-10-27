@@ -18,7 +18,7 @@ Built using a modern Microsoft data visualization stack:
 
 🔗 Data Modeling – Established relationship between Railway and Date tables for dynamic filtering.
 
-📁 File Format: .pbix for report creation and .png for snapshot display.
+📁 File Format: .pbix for report creation and .JPG for snapshot display.
 
 📂 Data Source
 
@@ -82,4 +82,4 @@ Standard Class dominates with £592,522, while First Class generates £149,399 �
 
 🗓️ Revenue by Day Insight: Wednesdays yield the highest average revenue (£111,577), ideal for midweek promotions.
 
-📸 Dashboard Preview: !(https://github.com/23Mahee/UK-TRAIN-RIDE-ANALYSIS/blob/main/Train.JPG)
+![Dashboard Preview](https://raw.githubusercontent.com/23Mahee/UK-TRAIN-RIDE-ANALYSIS/main/Train.JPG)
