@@ -85,3 +85,5 @@ Standard Class dominates with £592,522, while First Class generates £149,399 �
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](https://raw.githubusercontent.com/23Mahee/UK-TRAIN-RIDE-ANALYSIS/main/Train.JPG)
+
+## [Live Link](https://app.powerbi.com/view?r=eyJrIjoiNDdmMjQ3ZmYtZTcxMS00MDA1LWFiNzEtZmVlZmRhZDVhODRjIiwidCI6ImNiNDg2NjE1LWI4MTYtNGU0NS1iYTJiLTIzM2RiODYwMWJmYSIsImMiOjEwfQ%3D%3D)
